@@ -8,7 +8,7 @@
 '''
 print("\033c")
 
-""" n_tabla = int(input("Dame un numero para obtener la tabla de multiplicar: "))
+n_tabla = int(input("Dame un numero para obtener la tabla de multiplicar: "))
 num = 1
 
 multi = n_tabla * num
@@ -40,7 +40,7 @@ print(f"{n_tabla} X {num} = {multi} ")
 num+=1
 multi = n_tabla * num
 print(f"{n_tabla} X {num} = {multi} ")
-num+=1 """
+num+=1
 
 '''
   Crear un programa que calcule e imprima cualquier tabla de multiplicar
