@@ -30,7 +30,7 @@ print("Emails sin duplicados:")
 print(emails)
 
 #Solucion 2
-# Solucion 2
+
 emails = []
 
 for i in range(5):
